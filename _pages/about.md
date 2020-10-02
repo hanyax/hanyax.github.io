@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Shawn Xu, a first-year Computer Engineering M.S. student at UCSD. I got my undergraduate in Electrical and Computer Engineering at the University of Washington.
+* I am Shawn Xu, a first-year Computer Engineering M.S. student at UCSD. I got my undergraduate in Electrical and Computer Engineering at the University of Washington.
 
-I am proficient in both high level and system-level programming languages such as C/C++ and Java, computer architecture design/implementation, VLSI design, digital logic design with HDL such as System Verilog, embedded system design with various middle to large size project experiences. I also have project experience doing GPU programming, Shell scripting, Linux/GCC, Python, Machine Learning, Data Programming in R/Python, and Database Systems.
+* I am proficient in both high level and system-level programming languages such as C/C++ and Java, computer architecture design/implementation, VLSI design, digital logic design with HDL such as System Verilog, embedded system design with various middle to large size project experiences. I also have project experience doing GPU programming, Shell scripting, Linux/GCC, Python, Machine Learning, Data Programming in R/Python, and Database Systems.
 
 Recent News
 ======

@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Email: hax032 at ucsd dot edu
 * Phone: (206) 617-9193
