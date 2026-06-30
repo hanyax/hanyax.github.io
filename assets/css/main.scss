@@ -39,3 +39,10 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Publication & patent titles — classic serif, distinct from the sans-serif body */
+.pub-title {
+  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
