@@ -16,13 +16,55 @@ You can reach me through [LinkedIn](https://www.linkedin.com/in/hanyax/) or at h
 
 ## Publications {#publications}
 
-{% for post in site.publications reversed %}{% include archive-single.html %}{% endfor %}
+Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics<br>
+<b><i>Hanyang Xu</i></b>, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, Jongse Park, Hadi Esmaeilzadeh<br>
+ISCA, 2026 [<a href="/files/morphatron-isca-2026.pdf">Paper</a>] (To Appear)
+
+In-Storage Acceleration of Retrieval Augmented Generation as a Service<br>
+Rohan Mahapatra, Harsha Santhanam, Christopher Priebe, <b><i>Hanyang Xu</i></b>, Hadi Esmaeilzadeh<br>
+ISCA, 2025 [<a href="https://dl.acm.org/doi/10.1145/3695053.3731032">Paper</a>]
+
+Tandem Processor: Grappling with Emerging Operators in Neural Networks<br>
+Soroush Ghodrati, Sean Kinzer, <b><i>Hanyang Xu</i></b>, Rohan Mahapatra, Yoonsung Kim, Byung Hoon Ahn, Dong Kai Wang, Lavanya Karthikeyan, Amir Yazdanbakhsh, Jongse Park, Nam Sung Kim, Hadi Esmaeilzadeh<br>
+ASPLOS, 2024 [<a href="https://dl.acm.org/doi/10.1145/3620665.3640365">Paper</a>]
+
+In-Storage Domain-Specific Acceleration for Serverless Computing<br>
+Rohan Mahapatra, Soroush Ghodrati, Byung Hoon Ahn, Sean Kinzer, Shu-Ting Wang, <b><i>Hanyang Xu</i></b>, Lavanya Karthikeyan, Hardik Sharma, Amir Yazdanbakhsh, Mohammad Alian, Hadi Esmaeilzadeh<br>
+ASPLOS, 2024 [<a href="https://dl.acm.org/doi/10.1145/3620665.3640413">Paper</a>]
+
+Data Motion Acceleration: Chaining Cross-Domain Multi Accelerators<br>
+Shu-Ting Wang, <b><i>Hanyang Xu</i></b>, Amin Mamandipoor, Rohan Mahapatra, Byung Hoon Ahn, Soroush Ghodrati, Krishnan Kailas, Mohammad Alian, Hadi Esmaeilzadeh<br>
+HPCA, 2024 [<a href="https://ieeexplore.ieee.org/document/10476422">Paper</a>]
+
+GENERIC: Highly Efficient Learning Engine on Edge Using Hyperdimensional Computing<br>
+Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Rosing<br>
+DAC, 2022 [<a href="https://dl.acm.org/doi/10.1145/3489517.3530669">Paper</a>]
+
+VeriGOOD-ML: An Open-Source Flow for Automated ML Hardware Synthesis<br>
+Hadi Esmaeilzadeh, Soroush Ghodrati, Jie Gu, Shiyu Guo, Andrew B. Kahng, Joon Kyung Kim, Sean Kinzer, Rohan Mahapatra, Susmita Dey Manasi, Edwin Mascarenhas, Sachin S. Sapatnekar, Ravi Varadarajan, Zhiang Wang, <b><i>Hanyang Xu</i></b>, Brahmendra Reddy Yatham, Ziqing Zeng<br>
+ICCAD, 2021 [<a href="https://ieeexplore.ieee.org/document/9643449">Paper</a>]
+
+tiny-HD: Ultra-Efficient Hyperdimensional Computing Engine for IoT Applications<br>
+Behnam Khaleghi, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Šimunić Rosing<br>
+DATE, 2021 [<a href="https://ieeexplore.ieee.org/document/9473920">Paper</a>]
+
+Splatty — A Unified Image Demosaicing and Rectification Method<br>
+Pulkit Verma, Dominique E. Meyer, <b><i>Hanyang Xu</i></b>, Falko Kuester<br>
+WACV, 2021 [<a href="https://ieeexplore.ieee.org/document/9423304">Paper</a>]
 
 ## Patents {#patents}
 
-* **Architectures and Instruction Sets for Non-General Matrix Multiplication Operations** — Hadi Esmaeilzadeh, Soroush Ghodrati, Sean Kinzer, Rohan Mahapatra, Hanyang Xu. U.S. Patent Application [18/803,386](https://patents.google.com/?q=%22Architectures+and+instruction+sets+for+non-general+matrix+multiplication+operations%22), 2026.
-* **Deep Neural Network Operation via Patterned Filter Clustering and Activation Group Reuse** — Behnam Khaleghi, Jaeyoung Kang, Hanyang Xu, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, Monil Shah. U.S. Patent Application [18/441,569](https://patents.google.com/?q=%22Deep+Neural+Network+Operation+Via+Patterned+Filter+Clustering+and+Activation+Group+Reuse%22), 2024.
-* **High-Dimensional Vector Space Encoding Techniques for Hyperdimensional Computing Systems** — Behnam Khaleghi, Jaeyoung Kang, Hanyang Xu, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, et al. U.S. Patent Application [18/441,318](https://patents.google.com/?q=%22High-dimensional+vector+space+encoding+techniques+for+hyperdimensional+computing+systems%22), 2024.
+Architectures and Instruction Sets for Non-General Matrix Multiplication Operations<br>
+Hadi Esmaeilzadeh, Soroush Ghodrati, Sean Kinzer, Rohan Mahapatra, <b><i>Hanyang Xu</i></b><br>
+U.S. Patent Application 18/803,386, 2026 [<a href="https://patents.google.com/?q=%22Architectures+and+instruction+sets+for+non-general+matrix+multiplication+operations%22">Patent</a>]
+
+Deep Neural Network Operation via Patterned Filter Clustering and Activation Group Reuse<br>
+Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, Monil Shah<br>
+U.S. Patent Application 18/441,569, 2024 [<a href="https://patents.google.com/?q=%22Deep+Neural+Network+Operation+Via+Patterned+Filter+Clustering+and+Activation+Group+Reuse%22">Patent</a>]
+
+High-Dimensional Vector Space Encoding Techniques for Hyperdimensional Computing Systems<br>
+Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, et al.<br>
+U.S. Patent Application 18/441,318, 2024 [<a href="https://patents.google.com/?q=%22High-dimensional+vector+space+encoding+techniques+for+hyperdimensional+computing+systems%22">Patent</a>]
 
 ## Honors & Awards {#honors}
 
