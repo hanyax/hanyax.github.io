@@ -66,10 +66,14 @@ High-Dimensional Vector Space Encoding Techniques for Hyperdimensional Computing
 Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, et al.<br>
 U.S. Patent Application 18/441,318, 2024 [<a href="https://patents.google.com/?q=%22High-dimensional+vector+space+encoding+techniques+for+hyperdimensional+computing+systems%22">Patent</a>]
 
+## Open-Source Projects {#projects}
+
+**[GeneSys](https://actlab-genesys.github.io)** — I am a major contributor to the architecture, implementation, verification, and bring-up of the GeneSys accelerator architecture and its compilation stack. We have hosted GeneSys workshops at all major computer architecture conferences, including MICRO'23, HPCA'24, ASPLOS'24, and ISCA'24.
+
 ## Honors & Awards {#honors}
 
 * **[Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2024-north-america)** — Finalist, 2024
-* **IEEE Micro Top Picks** — Honorable Mention
+* **IEEE Micro Top Picks 2024** — Honorable Mention
 
 ## Teaching {#teaching}
 
