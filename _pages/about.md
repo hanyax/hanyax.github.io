@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<div class="about-me" markdown="1">
+
 I am a PhD student at UC San Diego in the [Alternative Computing Technologies (ACT) Lab](http://act-lab.org/), advised by Prof. [Hadi Esmaeilzadeh](https://cseweb.ucsd.edu/~hadi/), where my research focuses on cross-domain acceleration in robotics and domain-specific architectures and systems for LLMs. My work has appeared at top computer architecture venues, including ISCA, ASPLOS, and HPCA, and has been recognized with an **IEEE Micro Top Picks Honorable Mention** and selection as a **Qualcomm Innovation Fellowship finalist**. I am the lead contributor to [GeneSys](https://github.com/actlab-genesys/GeneSys), an open-source end-to-end acceleration framework for emerging deep learning networks.
 
 I received my Bachelor's degree in Electrical and Computer Engineering at the University of Washington and my M.S. in Computer Engineering at the University of California, San Diego.
 
 You can reach me through [LinkedIn](https://www.linkedin.com/in/hanyax/) or at hax032 [at] ucsd [dot] edu!
+
+</div>
 
 ## Publications {#publications}
 

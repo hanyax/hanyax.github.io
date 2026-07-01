@@ -40,15 +40,14 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Justify body text for a printed-publication look */
-.page__content p,
-.page__content li {
+/* Justify only the About Me intro; everything else stays left-aligned */
+.about-me p {
   text-align: justify;
 }
 
 /* Publication / patent entries — set apart from body prose */
 .pub-list p {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   line-height: 1.4;
   margin-bottom: 1.1em;
 }
