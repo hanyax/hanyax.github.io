@@ -46,3 +46,20 @@
   font-size: 1.05rem;
   line-height: 1.45;
 }
+
+/* Conference / venue highlight — a nice blue */
+.pub-venue {
+  color: #2c6fb3;
+  font-weight: 600;
+}
+
+/* Paper / patent links — a distinct color from the venue */
+a.pub-link {
+  color: #0f9488;
+  font-weight: 600;
+}
+
+a.pub-link:hover {
+  color: #0b6f66;
+  text-decoration: underline;
+}
