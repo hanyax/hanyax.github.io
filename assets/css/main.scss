@@ -40,26 +40,29 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Publication & patent titles — classic serif, distinct from the sans-serif body */
+/* Publication & patent titles — slightly larger, same Times-style serif as the body */
 .pub-title {
-  font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, "Times New Roman", serif;
-  font-size: 1.05rem;
+  font-family: $serif;
+  font-size: 1.1rem;
   line-height: 1.45;
 }
 
-/* Conference / venue highlight — a nice blue */
+/* Conference / venue highlight — dark green */
 .pub-venue {
-  color: #2c6fb3;
+  color: #166534;
   font-weight: 600;
 }
 
-/* Paper / patent links — a distinct color from the venue */
-a.pub-link {
-  color: #0f9488;
-  font-weight: 600;
-}
+/* Link tags — each type its own pastel color */
+a.tag-paper    { color: #8e74d6; font-weight: 600; }   /* purple */
+a.tag-patent   { color: #d072a8; font-weight: 600; }   /* pink */
+a.tag-workshop { color: #4faaa0; font-weight: 600; }   /* teal */
+a.tag-talk     { color: #e0975a; font-weight: 600; }   /* peach */
 
-a.pub-link:hover {
-  color: #0b6f66;
+a.tag-paper:hover,
+a.tag-patent:hover,
+a.tag-workshop:hover,
+a.tag-talk:hover {
   text-decoration: underline;
+  filter: brightness(0.9);
 }
