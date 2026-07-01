@@ -40,10 +40,17 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Publication & patent titles — slightly larger, same Times-style serif as the body */
+/* Publication / patent entries — set apart from body prose */
+.pub-list p {
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-bottom: 1.1em;
+}
+
 .pub-title {
   font-family: $serif;
-  font-size: 1.1rem;
+  font-weight: 700;
+  font-size: 1.2rem;
   line-height: 1.45;
 }
 

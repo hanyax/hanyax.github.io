@@ -16,6 +16,8 @@ You can reach me through [LinkedIn](https://www.linkedin.com/in/hanyax/) or at h
 
 ## Publications {#publications}
 
+<div class="pub-list" markdown="1">
+
 <span class="pub-title">Accelerator Polymorphism: Transcending Domain-Specific Architectures with Robotics</span><br>
 <b><i>Hanyang Xu</i></b>, SeongRyong Oh, Yubin Lee, Ashwin Rohit Alagiri Rajan, Rohan Mahapatra, Om Patil, Yuchuan Li, Jongse Park, Hadi Esmaeilzadeh<br>
 <span class="pub-venue">ISCA, 2026</span> <a class="tag-paper" href="/files/morphatron-isca-2026.pdf">[Paper]</a> (To Appear)
@@ -52,7 +54,11 @@ Behnam Khaleghi, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Šimunić Rosin
 Pulkit Verma, Dominique E. Meyer, <b><i>Hanyang Xu</i></b>, Falko Kuester<br>
 <span class="pub-venue">WACV, 2021</span> <a class="tag-paper" href="https://ieeexplore.ieee.org/document/9423304">[Paper]</a>
 
+</div>
+
 ## Patents {#patents}
+
+<div class="pub-list" markdown="1">
 
 <span class="pub-title">Architectures and Instruction Sets for Non-General Matrix Multiplication Operations</span><br>
 Hadi Esmaeilzadeh, Soroush Ghodrati, Sean Kinzer, Rohan Mahapatra, <b><i>Hanyang Xu</i></b><br>
@@ -65,6 +71,8 @@ Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana 
 <span class="pub-title">High-Dimensional Vector Space Encoding Techniques for Hyperdimensional Computing Systems</span><br>
 Behnam Khaleghi, Jaeyoung Kang, <b><i>Hanyang Xu</i></b>, Justin Morris, Tajana Rosing, Uday Bhanu Sharma Mallappa, Haichao Yang, et al.<br>
 <span class="pub-venue">U.S. Patent Application 18/441,318, 2024</span> <a class="tag-patent" href="https://patents.google.com/?q=%22High-dimensional+vector+space+encoding+techniques+for+hyperdimensional+computing+systems%22">[Patent]</a>
+
+</div>
 
 ## Open-Source Projects {#projects}
 
